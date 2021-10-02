@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Dakota",
+      "dogBreed": "Terrier",
+      "id": 4
+    },
+    {
+      "dogName": "Nancy",
+      "dogBreed": "Pitbull",
+      "id": 5
+    },
+    {
+      "dogName": "Bobby",
+      "dogBreed": "Shitzu ",
+      "id": 6
+    },
+    {
+      "hey": "lol",
+      "blah": "whatev",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,24 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Andrea",
+      "email": "lol@aol.com",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
